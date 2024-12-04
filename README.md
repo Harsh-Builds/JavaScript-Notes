@@ -1,7 +1,7 @@
-Overview:
+<b>Overview:</b> <br>
 This repository is a comprehensive guide to JavaScript, tailored for hands-on learning and practical programming.
 
-Features:
+<b>Features:</b>
 <ul>
 <li>📘 Hands-on Notes: Focused on coding rather than traditional handwritten explanations.</li>
 <li>💡 Key Concepts Explained: Every definition and concept is documented with inline comments (using JavaScript syntax).</li>
